@@ -6,7 +6,7 @@ Visual Intelligence System for Enterprise Network Transformation and Revenue Acc
 
 ---
 
-**📌 Tentang Vivivy**
+**📌 Tentang Vivivy** 
 
 Vivivy adalah platform berbasis Generative AI yang dirancang untuk membantu UMKM dalam mempercepat pembuatan konten visual, mengoptimalkan interaksi di media sosial, dan meningkatkan potensi pendapatan melalui wawasan berbasis data.
 
