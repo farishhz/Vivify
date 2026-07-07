@@ -2,7 +2,7 @@
 Visual Intelligence System for Enterprise Network Transformation and Revenue Acceleration
 
 **KRENOVA Kota Surakarta 2026 SMK Negeri 6 Surakarta Tim A**
-**Bidang Fokus:** Teknologi Informasi dan Komunikasi
+**Bidang Fokus:** Teknologi Informasi dan Komunikasi.
 
 ---
 
